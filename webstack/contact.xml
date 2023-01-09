@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="contact.xsl"?>
+ <Contact>
+  <s>
+   <name> Shubham Raithatha </name>
+   <age>22</age>
+   <Phone_Number> 7003455027 </Phone_Number>
+   <Avialabetime>10PM-10AM</Avialabetime>
+  </s>
+  <s>
+   <name> Umesh Raithatha </name>
+   <age>54</age>
+   <Phone_Number> 9073121381</Phone_Number>
+   <Avialabetime>10AM-4PM</Avialabetime>  </s>
+  <s> 
+   <name> Priti Raithatha </name>
+   <age>50</age>
+   <Phone_Number> 8910960930</Phone_Number>
+   <Avialabetime>4PM-10PM</Avialabetime>
+  </s>
+ </Contact>
